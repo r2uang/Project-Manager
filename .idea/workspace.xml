@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18f09885-bbd5-4162-b4ad-8059016572c8" name="Changes" comment="Commit 8">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/projectmanager/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/projectmanager/dto/ProjectDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/projectmanager/dto/Response.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projectmanager/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/projectmanager/controller/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projectmanager/controller/ProjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/projectmanager/controller/ProjectController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projectmanager/entities/FilterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/projectmanager/entities/FilterRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projectmanager/entities/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/projectmanager/entities/Project.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projectmanager/repository/ProjectRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/projectmanager/repository/ProjectRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projectmanager/service/ProjectService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/projectmanager/service/ProjectService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projectmanager/service/ProjectServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/projectmanager/service/ProjectServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/addEmployee.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/addEmployee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/employee.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/employee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/fragments.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/updateProject.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/updateProject.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/projectmanager/controller/DemoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/projectmanager/controller/DemoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/projectmanager/payload/MessageResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/projectmanager/payload/MessageResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/updateProject.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/updateProject.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="com.haulmont.jpb.JpaEntity" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28JcKfV889GNu0NmutJvSnxgPoj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Quang/Desktop/spring-demo&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15332031&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;e96bf2f77ec33dc6810e464759dec3a2&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Quang\Desktop\ProjectManager\src\main\resources\static" />
+      <recent name="C:\Users\Quang\Desktop\ProjectManager\src\main\resources\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Quang\Desktop\ProjectManager\src\main\resources\static\ajax" />
+      <recent name="C:\Users\Quang\Desktop\ProjectManager\src\main\resources\static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.projectmanager.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProjectManagerApplication">
+    <configuration name="ProjectController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.projectmanager.controller.ProjectController" />
+      <module name="ProjectManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.projectmanager.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ProjectManager" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.projectmanager.ProjectManagerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProjectController" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18f09885-bbd5-4162-b4ad-8059016572c8" name="Changes" comment="" />
+      <created>1650938069344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650938069344</updated>
+      <workItem from="1650938071446" duration="7711000" />
+      <workItem from="1651023664112" duration="13011000" />
+      <workItem from="1651043146438" duration="10330000" />
+      <workItem from="1651069961771" duration="4281000" />
+      <workItem from="1651110118673" duration="8561000" />
+      <workItem from="1651127050668" duration="8089000" />
+      <workItem from="1651151720410" duration="371000" />
+      <workItem from="1651152251845" duration="4165000" />
+      <workItem from="1651197796844" duration="22789000" />
+      <workItem from="1651583804596" duration="9101000" />
+      <workItem from="1651627873440" duration="909000" />
+      <workItem from="1651628799812" duration="3870000" />
+      <workItem from="1651632714939" duration="18997000" />
+      <workItem from="1651677127102" duration="4361000" />
+      <workItem from="1651713986462" duration="23762000" />
+      <workItem from="1651762302992" duration="3727000" />
+      <workItem from="1651801163834" duration="11353000" />
+      <workItem from="1651815820622" duration="11908000" />
+      <workItem from="1651892318174" duration="4658000" />
+      <workItem from="1651907986524" duration="5943000" />
+      <workItem from="1651917008789" duration="231000" />
+      <workItem from="1651932345854" duration="2687000" />
+      <workItem from="1651975116255" duration="16743000" />
+      <workItem from="1652001866518" duration="3127000" />
+      <workItem from="1652017470664" duration="255000" />
+      <workItem from="1652022251887" duration="3648000" />
+      <workItem from="1652059785997" duration="11455000" />
+      <workItem from="1652074115175" duration="11213000" />
+      <workItem from="1652091178694" duration="1802000" />
+      <workItem from="1652105187822" duration="4871000" />
+      <workItem from="1652111073013" duration="908000" />
+      <workItem from="1652147285662" duration="565000" />
+      <workItem from="1652155837910" duration="102000" />
+      <workItem from="1652159533292" duration="9068000" />
+      <workItem from="1652173626428" duration="2808000" />
+      <workItem from="1652233130935" duration="18614000" />
+      <workItem from="1652263170829" duration="629000" />
+      <workItem from="1652343075063" duration="610000" />
+      <workItem from="1652350645236" duration="2487000" />
+      <workItem from="1652436874607" duration="3054000" />
+      <workItem from="1652665629476" duration="9391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate:hibernate-core" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/projectmanager/controller/EmployeeController.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/projectmanager/controller/EmployeeController.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/projectmanager/controller/ProjectController.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/projectmanager/repository/EmployeeRepository.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/projectmanager/controller/ProjectController.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLSyntaxErrorException" package="java.sql" />
+          <option name="timeStamp" value="10" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.LinkedHashMap$Entry" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ProjectManager$ProjectManagerApplication.ic" NAME="ProjectManagerApplication Coverage Results" MODIFIED="1651744350873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
